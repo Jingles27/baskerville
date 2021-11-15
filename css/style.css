@@ -46,3 +46,20 @@ blockquote {
   hanging-punctuation: first;
   text-indent: -0.75rem;
 }
+
+cite {
+  font-size: 0.8em;
+  color;#333333;
+  font-style: normal;
+}
+
+/*-- styling links --*/
+a {
+  color: #760071;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cadetblue;
+  border-bottom: 1px dotted
+}
