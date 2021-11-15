@@ -14,7 +14,7 @@
         color: #333333;
         }
 
-Section, header {
+section, header {
       Width: 80%;
       max-width: 700px;
       margin: auto;
@@ -25,14 +25,14 @@ Section, header {
              color: #760071;
    }
 
-   p, blockquote {
+p, blockquote {
        margin-bottom: 1.5rem;
       line-height: 1.4
 }
 
 h1 {
   font-size: 5.653rem;
-  margin-top: 2rem;
+  margin-top: 2em;
 }
 
 h2 {
