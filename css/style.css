@@ -21,7 +21,13 @@ section, header, footer {
     padding: 0;
 
 }
+section {
+   margin-bottom: 4rem;
+}
 
+dark {
+  background: #760071;
+}
 /*-- Styling typography --*/
 
 h1, h2, blockquote {
