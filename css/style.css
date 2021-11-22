@@ -67,6 +67,17 @@ blockquote {
     text-indent: -0.75rem
 }
 
+img {
+
+display: block;
+margin:4em 0;
+padding: 0;
+max-width: 100%;
+
+
+
+}
+
 cite {
     font-size: 0.5em;
     color: #333333;
