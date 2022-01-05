@@ -1,3 +1,3 @@
 # John Baskerville
 
-[Version 1](https://jingles27.github.io/baskerville/baskerville1.html)
+[Version 1](https://jingles27.github.io/baskerville/baskerville4.html)
